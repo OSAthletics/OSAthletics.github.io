@@ -1,1 +1,1 @@
-# OSAthletics.github.io
+# OSAthletics
